@@ -1,0 +1,9 @@
+{
+  "name": "ws-server",
+  "private": true,
+  "type": "commonjs",
+  "dependencies": { "ws": "^8.16.0" },
+  "scripts": {
+    "start": "node server.cjs"
+  }
+}
